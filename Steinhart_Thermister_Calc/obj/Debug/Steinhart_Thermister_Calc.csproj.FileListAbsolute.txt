@@ -1,0 +1,10 @@
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\bin\Debug\Steinhart_Thermister_Calc.exe.config
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\bin\Debug\Steinhart_Thermister_Calc.exe
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\bin\Debug\Steinhart_Thermister_Calc.pdb
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.csprojAssemblyReference.cache
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.Form1.resources
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.Properties.Resources.resources
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.csproj.GenerateResource.cache
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.exe
+C:\Users\Git\Steinhart_Thermister_Calculator\Steinhart_Thermister_Calc\obj\Debug\Steinhart_Thermister_Calc.pdb
